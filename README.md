@@ -12,10 +12,12 @@ npm i zq-ip -g
 get ip v4
 
 ```
-ip or
+ip 
 
+```
+or
+```
 ip v4
-
 ```
 
 get ip v6
